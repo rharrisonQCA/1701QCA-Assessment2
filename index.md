@@ -20,38 +20,38 @@ https://create.arduino.cc/projecthub/arduino/puzzlebox-c1f374?ref=search&ref_id=
 This project is related to mine because *insert reasons here*.
 
 ### Related project 2 ###
-*Insert name of project*
+Electronic Puzzle Box uses only Discrete Components
 
-*Insert URL to project*
+https://hackaday.com/2014/05/14/electronic-puzzle-box-uses-only-discrete-components/
 
-![Image](missingimage.png)
+![Image](dice.png)
 
 This project is related to mine because *insert reasons here*.
 
 ### Related project 3 ###
-*Insert name of project*
+"Bomb" Diffuse Game
 
-*Insert URL to project*
+https://ramenboii.weebly.com/vis-147a/final-project-bomb-diffuse-game
 
-![Image](missingimage.png)
+![Image](bombgame.jpg)
 
 This project is related to mine because *insert reasons here*.
 
 ### Related project 4 ###
-*Insert name of project*
+Turning Lock Puzzle
 
-*Insert URL to project*
+https://create.arduino.cc/projecthub/krishnalalith/turning-lock-puzzle-356d56?ref=search&ref_id=puzzle&offset=4
 
-![Image](missingimage.png)
+![Image](lockpuzzle.jpg)
 
 This project is related to mine because *insert reasons here*.
 
 ### Related project 5 ###
-*Insert name of project*
+Keep Talking and Nobody Explodes - Physical Edition
 
-*Insert URL to project*
+http://www.dillonlareau.com/projects/KTANE_physical
 
-![Image](missingimage.png)
+![Image](keeptalking.jpg)
 
 This project is related to mine because *insert reasons here*.
 
