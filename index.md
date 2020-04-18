@@ -56,11 +56,11 @@ http://www.dillonlareau.com/projects/KTANE_physical
 This project is related to mine because *insert reasons here*.
 
 ### Related project 6 ###
-*Insert name of project*
+Interactive Toddler Music Box Toy
 
-*Insert URL to project*
+https://create.arduino.cc/projecthub/68284/interactive-toddler-music-box-toy-2c8dcf?ref=search&ref_id=box&offset=28
 
-![Image](missingimage.png)
+![Image](musicbox.jpg)
 
 This project is related to mine because *insert reasons here*.
 
