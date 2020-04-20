@@ -76,18 +76,26 @@ FIND AT LEAST 3 OF THIS
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+A game that intends for the user to improve their problem solving skills. 
 
 ### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
+![Image](concept1.jpg)
 
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
+This concept attempts to use all the empty space around the rectangle box. Thus leading sections of the puzzle to be spaced out. When the user presses Button A, the microbit checks to see if each puzzle has been solved. If deemed that the user has, the servo horns will be activated and the user will have access to the reward that they can also see through the plastic on the side of the box. However, if deemed unsolved, the LED screen will show a locked symbol and the servo horns will remain deactivated. 
+
+If the user chooses to press button B, all progress made on each puzzle will be reset. 
 
 ### Design concept 2 ###
-*Put details here.*
+![Image](concept2pic.jpg)
+
+![Image](concept2info.jpg)
+
+When all four lights are on, the user will be required to press Button A to double check. From there, if the microbit deems that the user has completed all puzzle stages, the servo horn will be activated and at the bottom of the hexogon, the compartment will open to reveal the reward inside. At the same time, the LED screen of the microbit will have the unlocked symbol present. If the microbit deems that the user hasn't complete all the stages, the LED screen will remain to show a locked symbol.
 
 ### Final design concept ###
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+
+![Image](concept3pic.jpg)
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
