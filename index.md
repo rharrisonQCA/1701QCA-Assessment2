@@ -139,9 +139,16 @@ The plan for the project sees the top painted in black and white checkers, like 
 
 
 ### Interaction flowchart ###
-*Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Image](flowchart.jpg)
+
+![Image](flowcharttopleft.jpg)
+
+![Image](flowcharttopright.jpg)
+
+![Image](flowchartbottomleft.jpg)
+
+![Image](flowchartbottomright.jpg)
 
 ## Physical experimentation documentation ##
 
