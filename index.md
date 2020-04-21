@@ -152,17 +152,17 @@ The plan for the project sees the top painted in black and white checkers, like 
 
 The whole progress began by adding the extension for servo into the microbit code. From there, it began by designing a timer to be counting down to 0, whilst testing the servo to be working. In order to do this, I had the timer count down from 15 seconds and have the servo react when reaching zero. However, upon the very first test, the servo struggled to turn when reaching 0. Thankfully, at least the wires connected were correct, which was discovered through the servo motor still vibrating. This problematic code can be seen beneath:
 
-![Image](missingimage.png)
+![Image](1stfail.jpg)
 
 Instead of fixing up this code, I moved on to beginning the prototype for the startup of the puzzle game box. This progress began by creating each puzzle corner's variable (labelled 1 through to 4) to be accessible when user presses button A to check if it can be unlocked. This was tested by setting the variable to "1", in other words "solved", by having this change the variable when button A and B are pressed together. After pressing the two buttons together, the program was checked by pressing A to check if the variables would work and unlock the compartment. The result of setting this startup leaves it easy to add the code into the end of solving each puzzles to easily turn on their corner LED's and already have the connection to button A and the compartment ready. 
 
-![Image](missingimage.png)
+![Image](workingstartup.jpg)
 
-After setting that up, I revisited the previous timer and servo code with new eyes to discover that the ccode was wrong. The fixed code can be seen below, along with a youtube video link to see the code in action: 
+After setting that up, I revisited the previous timer and servo code with new eyes to discover that the code was wrong. The fixed code can be seen below, along with a youtube video link to see the code in action: 
 
-![Image](missingimage.png)
+![Image](workingcodeservo.jpg)
 
-VIDEO LINK: 
+VIDEO LINK:
 
 The code was fixed to get the servo horns to move when the timer reached zero. After this was completed, this code could be copied into the startup code I had already started, thus making button B set up for the timer. 
 
@@ -227,7 +227,7 @@ As a result of these two puzzles being created, even as prototypes to the final 
 
 Even the plan to include the entire game inside the microbit box, where it is small, compact and easily accessible. It can be deemed as an appropriate container to maintain the project.
 
-![Image](missingimage.png)
+![Image](box.jpg)
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
