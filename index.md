@@ -8,7 +8,6 @@ When you have completed the template, submit the link to the GitHub Pages site f
 Puzzling Game Box
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
 PuzzleBox
@@ -162,7 +161,7 @@ After setting that up, I revisited the previous timer and servo code with new ey
 
 ![Image](workingcodeservo.jpg)
 
-VIDEO LINK:
+VIDEO LINK: https://youtu.be/_ln-1XZwHl0
 
 The code was fixed to get the servo horns to move when the timer reached zero. After this was completed, this code could be copied into the startup code I had already started, thus making button B set up for the timer. 
 
@@ -172,17 +171,17 @@ After copying the code into the startup, I finished the rest of the necessaritie
 The next step began Puzzle 1 prototype construction.
 The whole process began by following the set-up steps of exercise 10, but with swapping the placement of where the LED and buttons are. However, when adding the code previously made to test the new placement of technology, it did not operate. The new placement of technology can be seen below:
 
-![Image](missingimage.png)
+![Image](newposition.jpg)
 
 After this saddening discovery, the actual steps were taken and the technology got moved back to their old positions. From there, the previously made code was again tested and saw success of the program. The following steps see manipulation of this exercise to add the spindle and suit the puzzle more. This meant the attempt of combining exercise 10 and 3 together. This combination is below:
 
-![Image](missingimage.png)
+![Image](combination.jpg)
 
 However, it did not lead to any results other than the LED randomly flashing. Through, as a quick resolution, the microbit and laptop were unplugged from eachother, the RGB LED was pushed down and both the laptop and microbit were replugged. This process saw the red of the LED shine brightly, but did nothing when the button was pressed or the spindle was turned. Also, the randomly flashing of the LED was not resolved either.
 
 After further studying the javascript of exercise 10, I attempt to write the code I want. I had then turned that newly made javascript into blocks and tested that:
 
-![Image](missingimage.png)
+![Image](firsttestfail.jpg)
 
 Although, no progress was made as the previously mentioned errors were still occuring. With the exception of when the button was pressed, the red light flickered a little before it went back to its previous state. 
 
@@ -190,11 +189,11 @@ The next test was to check if the spindle was actually working amongst all the w
 
 To accurately test the spindle, I placed the previously made exercise 3 code into the microbit. Even when this was finished transferring, the red LED still instantly turned on. The button no longer worked, (though it was programmed to another pin within the previously made code). When the spindle was turned clockwise, nothing happened until it reached the very end of its spin. The LED screen produced a LED screen error (seen below), yet did not dim the red LED at all. 
 
-![Image](missingimage.png)
+![Image](spindleerror.jpg)
 
 I reset the exercise 3 code, replacing it with the previous code I was working on that saw the combination of 10 and 3. From there, I edited the javascript and got rid of the flashing LED errors. As a result of this, the button no longer works, the RGB (replaced the red LED) light remained on and the spindle error still appeared when turning it all the way clockwise. 
 
-![Image](missingimage.png)
+![Image](redflickers.jpg)
 
 After long fiddling with the javascript and block code, going back and forth (below is a photo of how back and forth this went) between what might work or not, I finally got the red on the RGB LED to turn on and off with the spindle. Although, to turn the light on and off, the spindle had to be turned all the way anti-clockwise to work. Even the button assisted by turning the red RGB LED to turn on and off. Now the next step is to try to attempt to get this to work for the other two colours. Below sees the code that allowed the red RGB LED to work, and the video that shows the code in action.
 
