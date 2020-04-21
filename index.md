@@ -17,7 +17,7 @@ This project is related to mine because I would like the outcome of my game box 
 ### Related project 2 ###
 Electronic Puzzle Box uses only Discrete Components
 
-https://hackaday.com/2014/05/14/electronic-puzzle-box-uses-only-discrete-components/
+[LINK](https://hackaday.com/2014/05/14/electronic-puzzle-box-uses-only-discrete-components/)
 
 ![Image](dice.png)
 
@@ -26,7 +26,7 @@ This project is related to mine through its concept of various puzzles for the u
 ### Related project 3 ###
 "Bomb" Diffuse Game
 
-https://ramenboii.weebly.com/vis-147a/final-project-bomb-diffuse-game
+[LINK](https://ramenboii.weebly.com/vis-147a/final-project-bomb-diffuse-game)
 
 ![Image](bombgame.jpg)
 
