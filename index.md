@@ -62,7 +62,7 @@ https://create.arduino.cc/projecthub/68284/interactive-toddler-music-box-toy-2c8
 
 ![Image](musicbox.jpg)
 
-This project is related to mine through its material and fabrication. For starters, it is planned to design my project first with cardboard and paper to ensure the concept, technology and everything words correctly and accurately. From there, it is planned to make my project simpler, much like this music box project, the components would be above the wood, thus hiding the wires and other technology beneath. This then leads both projects to be related together through their material and fabrication use. 
+This project is related to mine through its fabrication. For starters, it is planned to design my project first with cardboard and paper to ensure the concept, technology and everything words correctly and accurately. From there, it is planned to put holes into the cardboard in order to have the LED and buttons accessible to the user ontop of the cardboard. This provides for the project to cover the wiring beneath the cardboard where it cannot be easily tangled. 
 
 ## Other research ##
 
