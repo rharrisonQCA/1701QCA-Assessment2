@@ -65,13 +65,25 @@ https://create.arduino.cc/projecthub/68284/interactive-toddler-music-box-toy-2c8
 This project is related to mine through its material and fabrication. For starters, it is planned to design my project first with cardboard and paper to ensure the concept, technology and everything words correctly and accurately. From there, it is planned to make my project simpler, much like this music box project, the components would be above the wood, thus hiding the wires and other technology beneath. This then leads both projects to be related together through their material and fabrication use. 
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
-
-FIND AT LEAST 3 OF THIS
-
-### *Brief resource name/description* ###
-
 *Provide a link, reference, or whatever is required for somebody else to find the resource. Then provide a few comments about what you have drawn from the resource.*
+
+### DIY Micro:bit Reaction Game ###
+
+https://www.youtube.com/watch?v=217aTDpQda4
+
+This video has is relevant to my project as it provides evidence that it is possible to create buttons with the use of alfoil. At the same time, it also provides a method of how to produce such a button by using alfoil.
+
+### Foil Circuits ###
+
+https://makecode.microbit.org/device/foil-circuits
+
+From this tutorial, I have taken that if I run out of wires for my project it is possible to use aluminium foil to create new wires to use. This is relevant to my project as I will need to purchase more wires to connect everything. However, in the mean time while I await these wires to arrive, I can still test and build on my project by using these aluminium foil wires in the meantime. 
+
+### Connecting An LED to the Micro:bit  ###
+
+https://support.microbit.org/support/solutions/articles/19000101863-connecting-an-led-to-the-micro-bit
+
+From this tutorial, I have taken that a breadboard is not completely necessary to connect an LED to a breadboard. From this tutorial, it is now known that the wires do not need to use a breadboard to still get the LED to light up. As a result of this, this tutorial is relevant to my project as I will be able to connect LEDS further apart from eachother without being attached to the breadboard. 
 
 ## Conceptual progress ##
 
