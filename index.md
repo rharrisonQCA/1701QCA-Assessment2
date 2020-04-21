@@ -181,7 +181,7 @@ However, it did not lead to any results other than the LED randomly flashing. Th
 
 After further studying the javascript of exercise 10, I attempt to write the code I want. I had then turned that newly made javascript into blocks and tested that:
 
-![Image](firsttestfail.jpg)
+![Image](firsttestfail.JPG)
 
 Although, no progress was made as the previously mentioned errors were still occuring. With the exception of when the button was pressed, the red light flickered a little before it went back to its previous state. 
 
@@ -193,34 +193,37 @@ To accurately test the spindle, I placed the previously made exercise 3 code int
 
 I reset the exercise 3 code, replacing it with the previous code I was working on that saw the combination of 10 and 3. From there, I edited the javascript and got rid of the flashing LED errors. As a result of this, the button no longer works, the RGB (replaced the red LED) light remained on and the spindle error still appeared when turning it all the way clockwise. 
 
-![Image](redflickers.jpg)
+![Image](redflickers.JPG)
 
 After long fiddling with the javascript and block code, going back and forth (below is a photo of how back and forth this went) between what might work or not, I finally got the red on the RGB LED to turn on and off with the spindle. Although, to turn the light on and off, the spindle had to be turned all the way anti-clockwise to work. Even the button assisted by turning the red RGB LED to turn on and off. Now the next step is to try to attempt to get this to work for the other two colours. Below sees the code that allowed the red RGB LED to work, and the video that shows the code in action.
 
-![Image](missingimage.png)
+![Image](backandforth.JPG)
 
-![Image](missingimage.png)
+![Image](workingcodeforred.JPG)
 
-VIDEO LINK: 
+VIDEO LINK: https://youtu.be/yvCPzAfJxvo
 
 The code of the red RGB LED was copied and replaced with the functions for the blue LED to appear. This correctly worked, just like the red one. However, the green did decide to make an unannounced appearance without being told to through code. This is an error I couldn't figure out. Also, due to not having enough wires at the time of this testing, I had to test the green LED through pressing button A. The steps taken to copy the red LED code were taken again and adjusted to fit the green LED. Below is a test of all three colours on video. Obviously it is a prototype, so in the future, the extra colour that has appeared will be solved easily. For the meantime, the puzzle can work as intended. 
 
-VIDEO LINK:
+Final Code: 
+![Image](workingcodesortof.JPG)
+
+VIDEO LINK: https://youtu.be/ETBmdsR4X_Y
 
 The next step of physical experimentation begins with puzzle 2. 
 This begins with placing onto the breadboard two different lights that can be programmed within the microbit to turn on in a pattern. For the meantime, I attempted to get the microbit to have the lights change between the two first and unlock from there. I intially attempted to add arrays into this, but I had to make sure that the concept idea of having a pattern that the user needs to repeat would work. As a result, the code below is what was tried first, followed by the video of this code in action.
 
-![Image](missingimage.png)
+![Image](workingcode.JPG)
 
-VIDEO LINK:
+VIDEO LINK: https://youtu.be/OwOoXOTEbdc
 
 In order to make sure that this puzzle could work to the concept idea at hand, the next step sees the fabrication of aluminium foil being used as a button for the microbit. With this aluminium foil, I had cut toliet paper rolls into pieces to act as a motion of a button - where one pushes down and it pushes back up. As a result of this, the code had to be adjusted from pressing button A and B to pressing a pin that I hoped would work with pressing toliet paper roll onto a non-stable sticktaped strip of aluminium foil on my desk. The code chosen was:
 
-![Image](missingimage.png)
+![Image](workingcodealfoil.JPG)
 
 At first, the test saw only one toliet paper roll button tested, to ensure that it could work. If it didn't I would have to rethink what else could be substituted as a make-shift button for this project. When it did, the second pressed button was added and below can see the outcome of this decision.
 
-VIDEO LINK
+VIDEO LINK: https://youtu.be/qUDkW-_eqpw
 
 As a result of these two puzzles being created, even as prototypes to the final project, it proves that this whole project is completely possible. With the use of aluminium foil, it is possible to create a border for a makeshift operation, while the buzzer puzzle is similar to puzzle 1. 
 
