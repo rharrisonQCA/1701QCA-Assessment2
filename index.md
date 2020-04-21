@@ -1,9 +1,5 @@
 # 1701QCA Making Interaction - Assessment 2 workbook
 
-You will use this workbook to keep track of your progress through the course and also as a process journal to document the making of your projects. The comments in italics throughout the template give suggestions about what to include. Feel free to delete those instructions when you have completed the sections.
-
-When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
-
 ## Project working title ##
 Puzzling Game Box
 
@@ -232,7 +228,19 @@ Even the plan to include the entire game inside the microbit box, where it is sm
 ![Image](box.jpg)
 
 ## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+The design process all began by being bored within the house whilst in social distancing and quarantine rules are put in place. As a result, taking from experience the discover aspect of the Double Diamond began by brainstorming ideas that could help in these troubling times. A few ideas consisted of asking family members how would they like to keep occupied within this time. These answers came through as reading, gaming or watching television quite frequently. As a result of this, initally the design project was planned to be a self-turning machine for books, so you would just press a button and the technology would turn your page for you. However, as a result of the define phase of the Double Diamond, this idea of a project didn't help to tackle the idea of keeping active or occupying oneself physically. 
+
+This lead to having to come up with a whole new design intent and design concept. After some time looking over the notes I had gathered, I had come up with the idea of creating something that could keep one active and test out current skills whilst possibly improving them. This lead to the idea of board games that require a user to participate, think and possibly even communicate with others, if possible and depending on the game. 
+
+From there, the develop stage saw various versions of board games that could keep one activated. Some took inspiration from the 'Bop It' game where reaction skills are tested, or having to connect similar colours together without crossing like 'Flow Free' but a realistic verison. Another good concept took inspiration from the 'Keep talking and nobody explodes' video game, where it sees two people working together to solve problems on a bomb within the time limit. However, due to restrictions on social distancing and rules needing to be followed, it was required that I had to develop an concept idea that saw problems or puzzles solved by oneself. This is where the Puzzle Game Box came about. As it takes into consideration that people might not have access to other people, thus allowing oneself to test their own problem solving skills on the Game Box. 
+
+During this develop state of the Double Diamond, I had to make sure that each puzzle was different. In order to ensure that they were different and I wasn't being biased, I had to ask surrounding family members for their thoughts. At the same time, I enquired if there was any time of puzzle/game that they would be interested in playing if they were to play this Puzzle Game Box. Such feedback sees a measuring game, where the user would have to put specific blocks onto the box to acquire the desired weight without knowing how much a block weighs in order to solve. Another feedback sees somesort of rendition/updated version of 'Operation', which I have taken into account. 
+
+The next step of the design process sees the delivery of ideas, testing and discovering how it all works together. For my design process, this was accomplished through creating the prototypes of my puzzle ideas. As a result of this, it is discovered that I will require more wires in order to connect everything together, thus I had to look elsewhere on how to fill this void. This research lead to discovering that I could still produce the puzzles with the use of aluminium foil to create buttons and connect wires when done correctly. Although, during this delivery stage of the Double Diamond, trial and error takes a big aspect of this stage. As without trial and error, there is no further development in the project and you cover all bases, such as any type of user input that might be used that has not been planned for. 
 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+The next step of my plan to move the project foward in order to be ready to present by video and documentation in week 12 of the course sees that I finalise the puzzles with all their connections, paint the box to be presentable and aesthetically pleasing to the eye, fit all the technology and wires within the box and set up the reward within the compartment. 
+
+As a result of the prototypes of the puzzle that have been made, I will be able to easily recreate and connect all the pieces of the puzzle to create the big picture, the Puzzle Game Box. At the same time, I will need to create more wires with aluminum foil and connect everything away from the breadboard whilst it all still works without wires getting lost, disconnect or tangled.
+
+Another step for the future of the project requires making a goal for each week that ensures that the project continuously processes over the next couple of weeks. As a result of this will see the project in top condition and less stress when it comes to the final week of production.
